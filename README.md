@@ -12,3 +12,5 @@ CSS 已分离至 /css/time.css
 
 ![PNG](https://s2.loli.net/2024/06/24/hVfA4KUwHTBb1zl.png)
 ![PNG](https://s2.loli.net/2024/06/24/2uXjkeD8hE71Irw.png)
+
+此处在线预览 > <https://blog.admincmd.xyz/favi/>
