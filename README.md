@@ -1,6 +1,7 @@
 # 时光飞逝
 没事干，把侧边栏的 时光飞逝 模块拉出来
 
+Gitee > <https://gitee.com/administrator-command-prompt/Time-flies>
 ~~真的是没事干~~
 
 JS 已分离至 /js/time.js
